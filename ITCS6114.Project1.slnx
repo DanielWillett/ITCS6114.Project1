@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="ITCS6114.Project1.Benchmarks/ITCS6114.Project1.Benchmarks.csproj" Id="ce5b4c51-a76d-4b4a-96ab-4fb07a21547a" />
+  <Project Path="ITCS6114.Project1.Impl/ITCS6114.Project1.Impl.csproj" />
+  <Project Path="ITCS6114.Project1.Tests/ITCS6114.Project1.Tests.csproj" />
+</Solution>
